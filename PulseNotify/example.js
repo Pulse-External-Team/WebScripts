@@ -1,9 +1,13 @@
-// Load the PulseNotify API
+// PulseNotify API
 fetch("https://raw.githubusercontent.com/Pulse-External-Team/WebScripts/refs/heads/main/PulseNotify/main.js").then(r => r.text()).then(code => (new Function(code))());
 
-// Sending Notifycation:
-//                    Titel            Message
-PulseNotify.Notify("Injected", "PulseJS is injected", {
-  type: "success", // success, info, warning, error
-  duration: 3000 // Duration in milliseconds
-});
+PulseNotify.Notify(
+  "Injected", // Titel
+  "PulseJS is successfully injected",  // Message
+  {
+    imageUrl: "https://avatars.githubusercontent.com/u/174529763?v=4", // Image
+    type: "info", // success, info, warning, error
+    duration: 3000 // Duration in milliseconds
+  }
+);
+
