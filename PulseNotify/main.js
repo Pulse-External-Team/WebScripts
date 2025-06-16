@@ -1,1 +1,214 @@
-function _0xbfa3(_0x59613b,_0x1c9717){const _0x563714=_0x5637();return _0xbfa3=function(_0xbfa325,_0x9fdc93){_0xbfa325=_0xbfa325-0x73;let _0x4bb10f=_0x563714[_0xbfa325];return _0x4bb10f;},_0xbfa3(_0x59613b,_0x1c9717);}const _0x1d9db3=_0xbfa3;(function(_0x363bb1,_0x2898f9){const _0x2a6ebd=_0xbfa3,_0x51beb5=_0x363bb1();while(!![]){try{const _0x162637=parseInt(_0x2a6ebd(0x75))/0x1+-parseInt(_0x2a6ebd(0x91))/0x2+parseInt(_0x2a6ebd(0x7f))/0x3*(-parseInt(_0x2a6ebd(0x79))/0x4)+-parseInt(_0x2a6ebd(0x96))/0x5+-parseInt(_0x2a6ebd(0xa0))/0x6*(-parseInt(_0x2a6ebd(0x84))/0x7)+-parseInt(_0x2a6ebd(0x9b))/0x8+-parseInt(_0x2a6ebd(0x82))/0x9*(-parseInt(_0x2a6ebd(0x73))/0xa);if(_0x162637===_0x2898f9)break;else _0x51beb5['push'](_0x51beb5['shift']());}catch(_0x58e95a){_0x51beb5['push'](_0x51beb5['shift']());}}}(_0x5637,0x2f863));function _0x5637(){const _0x4510b6=['textContent','\x0a.pulse-notification\x20{\x0a\x20\x20position:\x20fixed;\x0a\x20\x20z-index:\x209999;\x0a\x20\x20min-width:\x20300px;\x0a\x20\x20max-width:\x20400px;\x0a\x20\x20padding:\x2018px\x2024px;\x0a\x20\x20border-radius:\x2012px;\x0a\x20\x20color:\x20white;\x0a\x20\x20font-family:\x20\x27Segoe\x20UI\x27,\x20Roboto,\x20Oxygen,\x20Ubuntu,\x20Cantarell,\x20\x27Open\x20Sans\x27,\x20\x27Helvetica\x20Neue\x27,\x20sans-serif;\x0a\x20\x20display:\x20flex;\x0a\x20\x20box-shadow:\x200\x206px\x2016px\x20rgba(0,\x200,\x200,\x200.15);\x0a\x20\x20transform:\x20translateX(120%);\x0a\x20\x20opacity:\x200;\x0a\x20\x20backdrop-filter:\x20blur(10px);\x0a\x20\x20background-color:\x20rgba(40,\x2040,\x2040,\x200.85);\x0a\x20\x20border:\x201px\x20solid\x20rgba(255,\x20255,\x20255,\x200.1);\x0a\x20\x20right:\x2024px;\x0a\x20\x20bottom:\x2024px;\x0a\x20\x20transition:\x20transform\x200.3s\x20ease,\x20opacity\x200.3s\x20ease,\x20bottom\x200.3s\x20ease;\x0a}\x0a\x0a.pulse-notification-content\x20{\x0a\x20\x20flex-grow:\x201;\x0a\x20\x20padding-right:\x2012px;\x0a}\x0a\x0a.pulse-notification-title\x20{\x0a\x20\x20font-weight:\x20600;\x0a\x20\x20font-size:\x2016px;\x0a\x20\x20margin-bottom:\x204px;\x0a\x20\x20line-height:\x201.3;\x0a}\x0a\x0a.pulse-notification-message\x20{\x0a\x20\x20font-size:\x2014px;\x0a\x20\x20line-height:\x201.4;\x0a\x20\x20opacity:\x200.9;\x0a}\x0a\x0a.pulse-notification-info\x20{\x0a\x20\x20border-left:\x204px\x20solid\x20rgba(33,\x20150,\x20243,\x200.9);\x0a}\x0a\x0a.pulse-notification-success\x20{\x0a\x20\x20border-left:\x204px\x20solid\x20rgba(76,\x20175,\x2080,\x200.9);\x0a}\x0a\x0a.pulse-notification-error\x20{\x0a\x20\x20border-left:\x204px\x20solid\x20rgba(244,\x2067,\x2054,\x200.9);\x0a}\x0a\x0a.pulse-notification-warning\x20{\x0a\x20\x20border-left:\x204px\x20solid\x20rgba(255,\x20193,\x207,\x200.9);\x0a\x20\x20color:\x20#fff;\x0a}\x0a\x0a.pulse-notification-warning\x20.pulse-notification-message\x20{\x0a\x20\x20opacity:\x200.8;\x0a}\x0a\x0a.pulse-notification-close\x20{\x0a\x20\x20background:\x20transparent;\x0a\x20\x20border:\x20none;\x0a\x20\x20color:\x20white;\x0a\x20\x20font-size:\x2020px;\x0a\x20\x20cursor:\x20pointer;\x0a\x20\x20opacity:\x200.7;\x0a\x20\x20padding:\x200;\x0a\x20\x20align-self:\x20flex-start;\x0a\x20\x20transition:\x20all\x200.2s\x20ease;\x0a\x20\x20width:\x2024px;\x0a\x20\x20height:\x2024px;\x0a\x20\x20display:\x20flex;\x0a\x20\x20align-items:\x20center;\x0a\x20\x20justify-content:\x20center;\x0a\x20\x20border-radius:\x204px;\x0a}\x0a\x0a.pulse-notification-close:hover\x20{\x0a\x20\x20opacity:\x201;\x0a\x20\x20background:\x20rgba(244,\x2067,\x2054,\x200.9);\x0a\x20\x20transform:\x20scale(1.1);\x0a}\x0a','571176nZbBpj','bottom','animateIn','length','translateX(120%)','102KskwMb','filter','pulse-notification','pulse-notification-content','pulse-notification-close','4540gHsOks','className','119851gJfvSN','head','opacity','notifications','86012tMfCjh','style','add','mouseenter','removeNotification','transition','18VTDbyP','transform','maxNotifications','8559hMdlpL','classList','20839yndqIw','addEventListener','forEach','transform\x200.3s\x20ease,\x20opacity\x200.3s\x20ease,\x20bottom\x200.3s\x20ease','info','appendChild','translateX(0)','body','createElement','push','click','pulse-notification-','pulse-notification-message','138180MyEYqv','shift','innerHTML','bottom-right','updatePositions','690250cdRuLb','animateOut','div'];_0x5637=function(){return _0x4510b6;};return _0x5637();}class PulseNotify{static [_0x1d9db3(0x78)]=[];static ['maxNotifications']=0x5;static['Notify'](_0x1e5213,_0x65b278,_0x5bdc9c={}){const _0x28fd3a=_0x1d9db3,{type:type=_0x28fd3a(0x88),duration:duration=0x1388,position:position=_0x28fd3a(0x94)}=_0x5bdc9c;if(this['notifications']['length']>=this[_0x28fd3a(0x81)]){const _0xbddae0=this[_0x28fd3a(0x78)][_0x28fd3a(0x92)]();this[_0x28fd3a(0x97)](_0xbddae0,!![]);}const _0x2bb088=document[_0x28fd3a(0x8c)](_0x28fd3a(0x98));_0x2bb088['className']=_0x28fd3a(0xa2);const _0x101945=document['createElement'](_0x28fd3a(0x98));_0x101945['className']=_0x28fd3a(0xa3);const _0xb7de11=document[_0x28fd3a(0x8c)](_0x28fd3a(0x98));_0xb7de11[_0x28fd3a(0x74)]='pulse-notification-title',_0xb7de11[_0x28fd3a(0x99)]=_0x1e5213;const _0x45cdfc=document[_0x28fd3a(0x8c)](_0x28fd3a(0x98));_0x45cdfc['className']=_0x28fd3a(0x90),_0x45cdfc[_0x28fd3a(0x99)]=_0x65b278;const _0x4bbcab=document[_0x28fd3a(0x8c)]('button');_0x4bbcab['className']=_0x28fd3a(0xa4),_0x4bbcab[_0x28fd3a(0x93)]='&times;',_0x4bbcab[_0x28fd3a(0x85)](_0x28fd3a(0x8e),()=>{const _0x4a6099=_0x28fd3a;this[_0x4a6099(0x7d)](_0x2bb088);}),_0x101945['appendChild'](_0xb7de11),_0x101945[_0x28fd3a(0x89)](_0x45cdfc),_0x2bb088[_0x28fd3a(0x89)](_0x101945),_0x2bb088['appendChild'](_0x4bbcab),document[_0x28fd3a(0x8b)][_0x28fd3a(0x89)](_0x2bb088),_0x2bb088['classList'][_0x28fd3a(0x7b)](_0x28fd3a(0x8f)+type),_0x2bb088[_0x28fd3a(0x83)]['add'](_0x28fd3a(0x8f)+position),this[_0x28fd3a(0x78)][_0x28fd3a(0x8d)](_0x2bb088),this[_0x28fd3a(0x95)](),this[_0x28fd3a(0x9d)](_0x2bb088);let _0x28adc5=setTimeout(()=>{const _0x2bfbd5=_0x28fd3a;this[_0x2bfbd5(0x7d)](_0x2bb088);},duration);_0x2bb088[_0x28fd3a(0x85)](_0x28fd3a(0x7c),()=>{clearTimeout(_0x28adc5);}),_0x2bb088[_0x28fd3a(0x85)]('mouseleave',()=>{_0x28adc5=setTimeout(()=>{const _0x1a8d82=_0xbfa3;this[_0x1a8d82(0x7d)](_0x2bb088);},duration);});}static[_0x1d9db3(0x9d)](_0x1af8f4){setTimeout(()=>{const _0x4790ef=_0xbfa3;_0x1af8f4[_0x4790ef(0x7a)][_0x4790ef(0x80)]=_0x4790ef(0x8a),_0x1af8f4[_0x4790ef(0x7a)]['opacity']='1';},0xa);}static[_0x1d9db3(0x97)](_0x349444,_0x9fd431=![]){const _0x2d63a8=_0x1d9db3;if(!_0x349444)return;_0x9fd431?_0x349444[_0x2d63a8(0x7a)][_0x2d63a8(0x80)]=_0x2d63a8(0x9f):_0x349444[_0x2d63a8(0x7a)][_0x2d63a8(0x77)]='0',setTimeout(()=>{const _0x5040aa=_0x2d63a8;_0x349444['remove'](),this['notifications']=this[_0x5040aa(0x78)][_0x5040aa(0xa1)](_0x50a80d=>_0x50a80d!==_0x349444),this[_0x5040aa(0x95)]();},0x12c);}static[_0x1d9db3(0x7d)](_0x56a418){const _0x898451=_0x1d9db3;this[_0x898451(0x97)](_0x56a418);}static[_0x1d9db3(0x95)](){const _0xa1fe82=_0x1d9db3,_0x233288=0x18,_0x420374=0x5a;this['notifications'][_0xa1fe82(0x86)]((_0x1d66ce,_0x599ad9)=>{const _0x165840=_0xa1fe82,_0x3ae871=(this[_0x165840(0x78)][_0x165840(0x9e)]-0x1-_0x599ad9)*_0x420374;_0x1d66ce[_0x165840(0x7a)][_0x165840(0x9c)]=_0x233288+_0x3ae871+'px',_0x1d66ce[_0x165840(0x7a)][_0x165840(0x7e)]=_0x165840(0x87);});}}const style=document[_0x1d9db3(0x8c)](_0x1d9db3(0x7a));style[_0x1d9db3(0x99)]=_0x1d9db3(0x9a),document[_0x1d9db3(0x76)][_0x1d9db3(0x89)](style),window['PulseNotify']=PulseNotify;
+class PulseNotify {
+  static notifications = [];
+  static maxNotifications = 5;
+
+  static Notify(title, message, options = {}) {
+    const {
+      type = 'info', // info, success, error, warning
+      duration = 5000,
+      position = 'bottom-right'
+    } = options;
+
+    // Remove oldest notification if we reached max
+    if (this.notifications.length >= this.maxNotifications) {
+      const oldest = this.notifications.shift();
+      this.animateOut(oldest, true);
+    }
+
+    // Create container
+    const container = document.createElement('div');
+    container.className = 'pulse-notification';
+    
+    // Create content wrapper
+    const contentWrapper = document.createElement('div');
+    contentWrapper.className = 'pulse-notification-content';
+    
+    // Create title element
+    const titleElement = document.createElement('div');
+    titleElement.className = 'pulse-notification-title';
+    titleElement.textContent = title;
+    
+    // Create message element
+    const messageElement = document.createElement('div');
+    messageElement.className = 'pulse-notification-message';
+    messageElement.textContent = message;
+    
+    // Create close button
+    const closeBtn = document.createElement('button');
+    closeBtn.className = 'pulse-notification-close';
+    closeBtn.innerHTML = '&times;';
+    closeBtn.addEventListener('click', () => {
+      this.removeNotification(container);
+    });
+    
+    // Assemble the notification
+    contentWrapper.appendChild(titleElement);
+    contentWrapper.appendChild(messageElement);
+    container.appendChild(contentWrapper);
+    container.appendChild(closeBtn);
+    
+    // Add to DOM
+    document.body.appendChild(container);
+    
+    // Apply styles
+    container.classList.add(`pulse-notification-${type}`);
+    container.classList.add(`pulse-notification-${position}`);
+    
+    // Add to notifications array
+    this.notifications.push(container);
+    this.updatePositions();
+    
+    // Animate in
+    this.animateIn(container);
+    
+    // Auto-hide after duration
+    let hideTimeout = setTimeout(() => {
+      this.removeNotification(container);
+    }, duration);
+    
+    // Pause hide on hover
+    container.addEventListener('mouseenter', () => {
+      clearTimeout(hideTimeout);
+    });
+    
+    container.addEventListener('mouseleave', () => {
+      hideTimeout = setTimeout(() => {
+        this.removeNotification(container);
+      }, duration);
+    });
+  }
+
+  static animateIn(container) {
+    setTimeout(() => {
+      container.style.transform = 'translateX(0)';
+      container.style.opacity = '1';
+    }, 10);
+  }
+
+  static animateOut(container, isOldest = false) {
+    if (!container) return;
+    
+    if (isOldest) {
+      // Slide out to right for oldest notification
+      container.style.transform = 'translateX(120%)';
+    } else {
+      // Fade out for others
+      container.style.opacity = '0';
+    }
+    
+    setTimeout(() => {
+      container.remove();
+      this.notifications = this.notifications.filter(n => n !== container);
+      this.updatePositions();
+    }, 300);
+  }
+
+  static removeNotification(container) {
+    this.animateOut(container);
+  }
+
+  static updatePositions() {
+    const bottomMargin = 24;
+    const notificationHeight = 90; // Approximate height including margin
+    
+    this.notifications.forEach((notification, index) => {
+      const offset = (this.notifications.length - 1 - index) * notificationHeight;
+      notification.style.bottom = `${bottomMargin + offset}px`;
+      
+      // Smooth transition for moving notifications
+      notification.style.transition = 'transform 0.3s ease, opacity 0.3s ease, bottom 0.3s ease';
+    });
+  }
+}
+
+// Add styles to the head
+const style = document.createElement('style');
+style.textContent = `
+.pulse-notification {
+  position: fixed;
+  z-index: 9999;
+  min-width: 300px;
+  max-width: 400px;
+  padding: 18px 24px;
+  border-radius: 12px;
+  color: white;
+  font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  display: flex;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+  transform: translateX(120%);
+  opacity: 0;
+  backdrop-filter: blur(10px);
+  background-color: rgba(40, 40, 40, 0.85);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  right: 24px;
+  bottom: 24px;
+  transition: transform 0.3s ease, opacity 0.3s ease, bottom 0.3s ease;
+}
+
+.pulse-notification-content {
+  flex-grow: 1;
+  padding-right: 12px;
+}
+
+.pulse-notification-title {
+  font-weight: 600;
+  font-size: 16px;
+  margin-bottom: 4px;
+  line-height: 1.3;
+}
+
+.pulse-notification-message {
+  font-size: 14px;
+  line-height: 1.4;
+  opacity: 0.9;
+}
+
+.pulse-notification-info {
+  border-left: 4px solid rgba(33, 150, 243, 0.9);
+}
+
+.pulse-notification-success {
+  border-left: 4px solid rgba(76, 175, 80, 0.9);
+}
+
+.pulse-notification-error {
+  border-left: 4px solid rgba(244, 67, 54, 0.9);
+}
+
+.pulse-notification-warning {
+  border-left: 4px solid rgba(255, 193, 7, 0.9);
+  color: #fff;
+}
+
+.pulse-notification-warning .pulse-notification-message {
+  opacity: 0.8;
+}
+
+.pulse-notification-close {
+  background: transparent;
+  border: none;
+  // made by PulseExternal
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  opacity: 0.7;
+  padding: 0;
+  align-self: flex-start;
+  transition: all 0.2s ease;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+}
+
+.pulse-notification-close:hover {
+  opacity: 1;
+  background: rgba(244, 67, 54, 0.9);
+  transform: scale(1.1);
+}
+`;
+document.head.appendChild(style);
+
+window.PulseNotify = PulseNotify;
