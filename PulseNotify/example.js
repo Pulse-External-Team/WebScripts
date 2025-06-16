@@ -1,5 +1,5 @@
 // 1. Loading API 
-fetch('https://example.com/code.js').then(r => r.text()).then(eval);
+fetch('https://raw.githubusercontent.com/Pulse-External-Team/WebScripts/refs/heads/main/PulseNotify/main.js').then(r => r.text()).then(eval);
 
 // 2. Send Notifycation
 PulseNotify.Notify(
