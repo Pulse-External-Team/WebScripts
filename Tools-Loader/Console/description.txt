@@ -1,0 +1,1 @@
+A DevTools Console alternative because you can no longer open it without switching to debug mode
