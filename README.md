@@ -2,7 +2,7 @@
 
 ## Usage
 
-**PulseX**
+**PulseJS - Web**
 
 ```javascript
 fetch('https://raw.githubusercontent.com/Pulse-External-Team/WebScripts/refs/heads/main/WebScripts/Scratch/Loader/PulseJS%20-%20UI/UI.js').then(r => r.text()).then(eval).c
@@ -13,7 +13,7 @@ fetch('https://raw.githubusercontent.com/Pulse-External-Team/WebScripts/refs/hea
 **Tampermonkey**
 ```javascript
 // ==UserScript==
-// @name         PulseX
+// @name         PulseJS - Web
 // @namespace    http://tampermonkey.net/
 // @version      v2.5.0
 // @description  Javascript executor with many funktions :)
