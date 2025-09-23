@@ -9,6 +9,7 @@ fetch('https://raw.githubusercontent.com/Pulse-External-Team/WebScripts/refs/hea
 
 ```
 
+
 **Tampermonkey**
 ```javascript
 // ==UserScript==
